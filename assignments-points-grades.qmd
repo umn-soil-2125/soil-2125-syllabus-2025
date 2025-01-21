@@ -62,7 +62,7 @@ Any challenges to graded assignments you wish to be considered should be emailed
 
 ### Student Workload Statement
 
-This course conforms to the UMN [expected time per course credit policy](https://policy.umn.edu/education/expectedtimepercredit). Per that policy:
+This course conforms to the UMN [expected time per course credit policy](https://policy.umn.edu/education/timepercredit#:~:text=Student%20workload%20expectations%20per%20undergraduate%20credit.&text=One%20credit%20equals%2045%20hours,45%20hours%20of%20academic%20work).) Per that policy:
 
 -   For all academic sessions, courses, and modalities, hours of instructional time for a course must equal at least the number of credits for the course times 15 weeks in an academic term. 4 credits x 1 hour in class per credit (average) x 15 weeks = 60 hours of instructional time
 

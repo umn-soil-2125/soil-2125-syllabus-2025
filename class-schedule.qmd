@@ -4,7 +4,7 @@
 library(knitr)
 library(dplyr)
 library(kableExtra)
-class.schedule = read.csv("class-schedule.csv")
+class.schedule = read.csv("class-schedule-revised-21JAN2025.csv")
 class.schedule = select(class.schedule, -1)
 colnames(class.schedule) = c("Day", "Date", "Topic Focus", "What's Due?", "Suggested Readings - Brady and Weil 4th ed", "Lab Unit")
 
