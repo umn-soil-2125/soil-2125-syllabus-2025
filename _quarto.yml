@@ -6,9 +6,9 @@ project:
 book:
   title: "Basic Soil Science (SOIL 2125) Syllabus - Spring 2025"
   author: "Nic Jelinski, Andrea Elvir Flores, and Nora Pearson"
-  date: "12JAN2025"
+  date: "21JAN2025"
   cover-image: "soil-2125-03.png"
-  number: "2.1"
+  number: "2.2"
   #navbar: 
     #right: 
       #- icon: cc-circle
