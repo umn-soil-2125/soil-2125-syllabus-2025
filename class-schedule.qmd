@@ -22,9 +22,9 @@ kable_styling("bordered", full_width = F, fixed_thead = T, html_font = "arial") 
   pack_rows("Week 10", 34,38) %>%
   pack_rows("Week 11", 39,42) %>%
   pack_rows("Week 12", 43,46) %>%
-  pack_rows("Week 13", 47,50) %>%
-  pack_rows("Week 14", 51,54) %>%
-  pack_rows("Week 15", 55,58) %>%
-  pack_rows("Week 16", 59,61) %>%
+  pack_rows("Week 13", 47,51) %>%
+  pack_rows("Week 14", 52,55) %>%
+  pack_rows("Week 15", 56,59) %>%
+  pack_rows("Week 16", 60,62) %>%
   scroll_box(width = "100%", height = "1000px")
 ```
